@@ -38,7 +38,7 @@
     font-family: "Secular One", sans-serif;
 }
 #n {
-    ffont-family: "Shadows Into Light", cursive;
+    font-family: "Shadows Into Light", cursive;
 }
 #o {
     font-family: "Smokum", cursive;
@@ -60,4 +60,7 @@
 }
 #u {
     font-family: "Nanum Myeongjo", serif;
+}
+body {
+    padding: 4rem;
 }
